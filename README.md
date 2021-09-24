@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 # My Work
 Below is some of the projects and assignments i have worked on in my time studying Computer Science. I hope
 to be able to populate it with more personal projects or even talk about work i have done for organisations 
-in the future!
+in the future! I have Experience in coding with Java, Python, HTML & CSS as well as some knowlege in Javascript.
 
 ## Mood Meter
 ---
