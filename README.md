@@ -14,10 +14,14 @@ to be able to populate it with more personal projects or even talk about work i 
 in the future! I have Experience in coding with Java, Python, HTML & CSS as well as some knowlege in Javascript.
 
 ## Mood Meter
----
+My Mood Meter project was an IoT assignment i made in Year 2, where i used IoT tools to react to a users input. 
+the program would react dependig on the mood the person gave to the Blynk app, or the raspberry pi.
 
 ## Social Bin Bot
----
+The Social Robot was a project i had also done in Year 2 of my Computer Science course. This was made using a Microbit
+controller along with sensors and a vision system to create a robot that interacts with the user.
 
 ## Warehouse Managment System
----
+The Warehouse assignment was a project i had to do in Year 2. It was done using the knowlege we had learned in our
+Data Structures & Algorithms module. It focuses on Generic Lists and the CRUD aspects behind them, along with some
+minor HTML and CSS.
